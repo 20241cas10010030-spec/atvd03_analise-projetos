@@ -1,0 +1,5 @@
+br/edu/ifpr/todolist/repository/TarefaRepository.class
+br/edu/ifpr/todolist/controller/TarefaController.class
+br/edu/ifpr/todolist/model/Tarefa.class
+br/edu/ifpr/todolist/TodolistApplication.class
+br/edu/ifpr/todolist/config/SecurityConfig.class
